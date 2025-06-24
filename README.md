@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhayhttp7489" alt="abhayhttp7489" /></a> </p>
 
-- 🔭 I’m currently working on [Discuss board](https://discussboard.netlify.app/)
+- 🔭 I’m currently working on [carrerAcceleator job portal](https://discussboard.netlify.app/)
 
 - 🌱 I’m currently learning **Cloud computing, Docker,Aws,Kubernet and improving backend skills with Laravel and Node.js**
 
