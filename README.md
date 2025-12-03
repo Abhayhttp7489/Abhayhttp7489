@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Cloud computing, Docker,Aws,Kubernet and improving backend skills with Laravel and Node.js**
 
-- 👯 I’m looking to collaborate on [Smartsphere](https://aigemini8529.netlify.app/)
-
 - 👨‍💻 All of my projects are available at [https://abhay-verma.netlify.app/](https://abhay-verma.netlify.app/)
 
 - 💬 Ask me about **React, Vue, GSAP,Php,Laravel and frontend development best practices**
